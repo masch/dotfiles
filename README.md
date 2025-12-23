@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="assets/tux.png" width="100" alt="Tux Logo">
+</p>
+
 # Dotfiles
 
 A collection of useful scripts for GNOME and Linux system management.
